@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mirza Čičkušić 👋
 
-<!--
-**mirza-cickusic/mirza-cickusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science & IT Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science and IT student at IPI Akademija Tuzla, interested in software development, programming and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- **IPI Akademija Tuzla**
+- Computer Science and Informatics
+- Final-year student
+
+### 💻 Technologies & Skills
+- **Programming:** C, C++
+- **Web Development:** HTML, CSS
+- **Database:** SQL
+- **Currently Learning:** Java
+
+### 🚀 Currently
+- Improving my programming and problem-solving skills
+- Expanding my knowledge of software development
+- Working on academic and personal projects
+
+### 📫 Connect with Me
+- **LinkedIn:** [My LinkedIn Profile (https://www.linkedin.com/in/mirza-cickusic-40653a20b/)
+- **GitHub:** [github.com/mirza-cickusic](https://github.com/mirza-cickusic)
+
+---
+
+*Always learning, building and improving.*
