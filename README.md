@@ -21,7 +21,7 @@ I'm a Computer Science and IT student at IPI Akademija Tuzla, interested in soft
 - Working on academic and personal projects
 
 ### 📫 Connect with Me
-- **LinkedIn:** My LinkedIn Profile (https://www.linkedin.com/in/mirza-cickusic-40653a20b/)
+- **LinkedIn:** (https://www.linkedin.com/in/mirza-cickusic-40653a20b/)
 - **GitHub:** [github.com/mirza-cickusic](https://github.com/mirza-cickusic)
 
 ---
